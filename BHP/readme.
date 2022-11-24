@@ -1,0 +1,10 @@
+this project runs on the local server only 
+
+process to run the projrct
+  ->go to server folder
+      ->run cmd on the same window
+      ->write python server.py //to start the server as a local host
+  
+  ->go to client folder
+      ->now u can run app.html
+      ->By providing data u can predict the price
